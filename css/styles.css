@@ -1,3 +1,31 @@
 .col-md-2 {
   background-color: yellow;
+  height: 100px;
+}
+
+nav {
+  height: 100px;
+
+}
+
+header {
+  height: 400px;
+  background-color: green;
+}
+
+.row-three {
+  height: 50px;
+  background-color: orange;
+}
+
+.row-four {
+  background-color: gray;
+}
+
+.row-five {
+  background-color: pink;
+}
+
+.row-five, .row-four {
+  height: 150px;
 }
