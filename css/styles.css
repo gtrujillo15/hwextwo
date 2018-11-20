@@ -1,16 +1,26 @@
-.col-md-2 {
-  background-color: yellow;
-  height: 100px;
+.box {
+  background-color: #000;
+  color: #fff;
+}
+
+.h-25 {
+  height: 25px;
+}
+
+.h-huge {
+  height: 500px;
+}
+
+.set_margin {
+  margin-right: .5em;
+}
+
+.space {
+  padding: 2em 0em;
 }
 
 nav {
   height: 100px;
-
-}
-
-header {
-  height: 400px;
-  background-color: green;
 }
 
 .row-three {
